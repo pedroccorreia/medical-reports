@@ -79,7 +79,7 @@ Running the following commands in Cloud Shell will make authentication process e
 
 export PROJECT_IDENTIFIER='project_id'
 export CONTAINER_VERSION='v1.0'
-export CONTAINER_NAME='metadata_explorer'
+export CONTAINER_NAME='medical_report_explorer'
 export IMAGE_URI=us.gcr.io/$PROJECT_IDENTIFIER/$CONTAINER_NAME:$CONTAINER_VERSION
 export REGION='us-central1'
 
